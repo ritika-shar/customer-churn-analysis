@@ -1,0 +1,201 @@
+customer_id,gender,age,tenure,contract_type,payment_method,monthly_charges,total_charges,internet_service,tech_support,online_backup,churn
+C0001,Male,49,60,Two Year,Bank Transfer,110.45,1413.64,No,Yes,No,Yes
+C0002,Female,56,63,One Year,Bank Transfer,100.97,5930.47,Yes,No,No,No
+C0003,Male,49,32,Two Year,Bank Transfer,43.65,754.11,No,No,Yes,No
+C0004,Male,21,33,Two Year,Bank Transfer,58.05,4864.9,Yes,Yes,Yes,No
+C0005,Male,47,67,Two Year,Bank Transfer,52.36,2038.26,Yes,No,No,Yes
+C0006,Female,54,18,Month-to-Month,Debit Card,96.96,3175.44,Yes,No,Yes,No
+C0007,Male,40,25,Month-to-Month,Bank Transfer,33.02,2380.68,Yes,No,No,Yes
+C0008,Male,56,54,Month-to-Month,Bank Transfer,81.29,2909.81,No,Yes,Yes,No
+C0009,Male,62,58,Two Year,Credit Card,98.62,5780.46,No,No,No,No
+C0010,Female,32,67,Month-to-Month,Debit Card,108.91,2447.26,Yes,No,Yes,No
+C0011,Male,60,46,One Year,Debit Card,60.79,4574.6,Yes,Yes,No,No
+C0012,Male,46,24,Month-to-Month,Debit Card,103.91,3860.8,Yes,Yes,Yes,No
+C0013,Male,53,32,One Year,Bank Transfer,39.96,5343.0,Yes,No,No,No
+C0014,Male,30,47,Two Year,Bank Transfer,106.18,7500.95,No,Yes,Yes,No
+C0015,Female,49,23,Two Year,Bank Transfer,41.47,5887.32,Yes,No,No,No
+C0016,Male,24,66,Month-to-Month,Credit Card,65.76,1798.03,Yes,No,No,No
+C0017,Female,39,27,Two Year,Bank Transfer,101.76,346.35,Yes,Yes,Yes,No
+C0018,Female,45,2,One Year,Credit Card,43.49,2171.89,Yes,No,Yes,No
+C0019,Female,19,17,Month-to-Month,Debit Card,50.63,4801.12,Yes,No,Yes,No
+C0020,Male,59,33,One Year,Bank Transfer,95.0,506.26,Yes,No,No,No
+C0021,Female,62,9,Month-to-Month,Credit Card,94.8,4021.29,Yes,Yes,No,Yes
+C0022,Male,23,43,Month-to-Month,Credit Card,87.7,4815.06,Yes,No,No,No
+C0023,Female,45,48,One Year,Bank Transfer,92.46,2740.53,No,Yes,Yes,Yes
+C0024,Female,45,39,Month-to-Month,Debit Card,78.85,6190.21,Yes,Yes,Yes,No
+C0025,Female,61,42,Month-to-Month,Debit Card,52.66,942.13,Yes,No,No,No
+C0026,Female,61,26,Month-to-Month,Debit Card,61.11,693.59,No,Yes,Yes,No
+C0027,Female,37,50,Month-to-Month,Credit Card,46.34,5852.69,Yes,No,No,No
+C0028,Female,47,25,Month-to-Month,Credit Card,111.76,4014.38,No,Yes,Yes,No
+C0029,Female,28,24,One Year,Credit Card,82.51,5538.38,Yes,No,No,No
+C0030,Female,45,13,One Year,Credit Card,66.08,3535.14,Yes,Yes,Yes,No
+C0031,Male,42,60,One Year,Debit Card,71.58,2046.58,Yes,No,Yes,Yes
+C0032,Male,56,7,Two Year,Bank Transfer,115.26,6570.91,Yes,No,No,No
+C0033,Female,50,57,One Year,Credit Card,43.8,6415.39,Yes,Yes,No,Yes
+C0034,Female,18,36,One Year,Credit Card,82.76,5588.1,Yes,Yes,No,No
+C0035,Female,44,45,Month-to-Month,Debit Card,75.53,2249.95,Yes,Yes,Yes,No
+C0036,Male,30,20,Month-to-Month,Bank Transfer,85.03,4762.82,Yes,No,Yes,No
+C0037,Female,58,65,Month-to-Month,Bank Transfer,31.63,2951.69,Yes,Yes,No,Yes
+C0038,Male,20,8,Month-to-Month,Debit Card,108.49,823.5,No,No,No,Yes
+C0039,Male,56,16,One Year,Debit Card,113.89,7346.78,No,No,Yes,No
+C0040,Male,23,14,Month-to-Month,Bank Transfer,80.86,1180.87,No,Yes,Yes,Yes
+C0041,Male,25,15,Two Year,Credit Card,92.7,7606.88,Yes,No,Yes,Yes
+C0042,Male,44,66,Two Year,Bank Transfer,113.02,3623.45,Yes,No,No,Yes
+C0043,Female,26,32,One Year,Debit Card,93.65,1562.55,Yes,Yes,Yes,No
+C0044,Female,54,63,Month-to-Month,Credit Card,43.73,4381.02,Yes,Yes,Yes,No
+C0045,Female,50,51,Month-to-Month,Credit Card,81.87,6996.27,Yes,Yes,Yes,No
+C0046,Female,59,25,Two Year,Debit Card,84.6,5884.58,Yes,No,Yes,Yes
+C0047,Female,61,58,Two Year,Debit Card,68.17,6471.83,Yes,No,Yes,No
+C0048,Male,41,63,Month-to-Month,Debit Card,96.28,5304.39,Yes,No,No,No
+C0049,Female,32,62,One Year,Bank Transfer,114.09,5568.98,Yes,No,Yes,No
+C0050,Female,49,22,Month-to-Month,Bank Transfer,113.3,6808.65,Yes,No,No,Yes
+C0051,Male,49,58,Month-to-Month,Credit Card,70.58,2072.38,Yes,No,Yes,Yes
+C0052,Female,41,58,Month-to-Month,Debit Card,40.19,3966.46,No,No,No,Yes
+C0053,Male,58,49,Month-to-Month,Credit Card,118.64,1847.55,Yes,Yes,No,No
+C0054,Female,29,52,Two Year,Credit Card,105.5,7902.58,Yes,Yes,No,No
+C0055,Male,56,42,One Year,Credit Card,41.22,7558.07,Yes,Yes,No,Yes
+C0056,Female,19,70,Month-to-Month,Credit Card,112.88,411.47,Yes,Yes,Yes,Yes
+C0057,Female,20,15,One Year,Debit Card,108.29,5674.04,Yes,No,Yes,Yes
+C0058,Male,54,54,Two Year,Credit Card,76.7,7409.46,Yes,No,No,No
+C0059,Male,34,60,Two Year,Debit Card,83.21,1526.55,Yes,Yes,No,Yes
+C0060,Male,19,8,Month-to-Month,Debit Card,65.91,4586.77,Yes,Yes,No,No
+C0061,Male,19,53,Month-to-Month,Bank Transfer,34.93,7332.36,Yes,No,No,No
+C0062,Male,45,60,Month-to-Month,Debit Card,60.17,368.17,Yes,No,No,No
+C0063,Male,40,5,Month-to-Month,Bank Transfer,102.26,5609.62,No,Yes,Yes,Yes
+C0064,Male,54,68,Month-to-Month,Debit Card,30.42,2449.06,Yes,No,Yes,Yes
+C0065,Male,49,6,One Year,Debit Card,60.01,7402.73,Yes,Yes,No,No
+C0066,Female,50,47,Month-to-Month,Debit Card,65.84,7771.36,No,Yes,No,No
+C0067,Female,18,55,Month-to-Month,Bank Transfer,78.37,7559.71,Yes,No,Yes,No
+C0068,Male,36,40,Month-to-Month,Bank Transfer,112.79,3846.29,Yes,No,No,No
+C0069,Female,19,52,Month-to-Month,Credit Card,61.17,6910.14,Yes,Yes,Yes,Yes
+C0070,Female,61,16,Month-to-Month,Bank Transfer,61.23,6771.94,Yes,No,No,No
+C0071,Female,43,13,Month-to-Month,Bank Transfer,96.38,2620.89,No,No,Yes,No
+C0072,Female,49,30,Month-to-Month,Bank Transfer,70.7,6648.43,Yes,No,Yes,Yes
+C0073,Male,23,19,Month-to-Month,Bank Transfer,50.21,392.36,No,No,No,No
+C0074,Female,49,17,Month-to-Month,Credit Card,70.72,4810.53,Yes,No,Yes,No
+C0075,Male,21,63,One Year,Bank Transfer,42.68,1917.07,Yes,No,No,No
+C0076,Female,28,19,Month-to-Month,Debit Card,45.87,1052.48,Yes,No,No,No
+C0077,Female,34,58,Month-to-Month,Debit Card,74.85,707.93,Yes,Yes,No,No
+C0078,Female,55,55,Month-to-Month,Bank Transfer,67.7,5600.68,Yes,Yes,Yes,No
+C0079,Male,41,62,Two Year,Bank Transfer,112.34,2785.01,No,Yes,Yes,Yes
+C0080,Female,22,23,Month-to-Month,Debit Card,62.62,5825.66,Yes,No,Yes,No
+C0081,Male,51,9,One Year,Debit Card,82.25,616.32,No,Yes,No,No
+C0082,Female,23,12,Two Year,Credit Card,86.9,2590.79,Yes,No,No,Yes
+C0083,Male,39,1,Month-to-Month,Debit Card,31.18,4361.98,No,No,No,No
+C0084,Female,28,58,Two Year,Debit Card,89.72,6346.71,Yes,Yes,No,No
+C0085,Male,33,1,One Year,Bank Transfer,46.02,2618.14,Yes,No,No,No
+C0086,Male,50,34,Month-to-Month,Debit Card,116.5,5044.54,No,No,No,No
+C0087,Female,26,48,Month-to-Month,Credit Card,43.38,7099.22,Yes,No,Yes,No
+C0088,Male,23,1,One Year,Debit Card,67.32,4965.32,Yes,Yes,No,Yes
+C0089,Female,33,16,Month-to-Month,Bank Transfer,37.68,1940.38,Yes,No,Yes,Yes
+C0090,Female,46,61,Two Year,Bank Transfer,119.72,292.77,Yes,No,No,Yes
+C0091,Female,20,64,Month-to-Month,Debit Card,75.2,6973.78,No,No,No,No
+C0092,Female,37,63,One Year,Bank Transfer,83.58,268.03,Yes,No,No,No
+C0093,Female,53,69,Month-to-Month,Credit Card,36.04,7010.14,Yes,No,Yes,Yes
+C0094,Female,36,22,Two Year,Credit Card,97.5,4278.6,Yes,No,Yes,No
+C0095,Female,43,67,One Year,Debit Card,48.89,7518.63,Yes,No,Yes,No
+C0096,Female,20,26,Month-to-Month,Debit Card,110.82,6410.39,Yes,No,Yes,No
+C0097,Female,36,16,Month-to-Month,Debit Card,48.46,7983.68,Yes,Yes,Yes,No
+C0098,Female,37,51,Month-to-Month,Bank Transfer,47.16,2870.62,Yes,No,No,Yes
+C0099,Female,49,57,Month-to-Month,Credit Card,33.29,6160.79,Yes,No,No,No
+C0100,Male,24,29,Month-to-Month,Credit Card,72.49,3275.25,Yes,No,Yes,No
+C0101,Male,58,69,One Year,Bank Transfer,80.84,3891.02,Yes,Yes,Yes,No
+C0102,Female,50,47,One Year,Credit Card,35.91,5057.29,Yes,No,Yes,No
+C0103,Female,57,62,One Year,Debit Card,99.8,7002.05,Yes,Yes,No,No
+C0104,Female,56,69,Two Year,Debit Card,70.8,7874.26,Yes,No,No,No
+C0105,Female,35,16,One Year,Debit Card,77.2,6169.36,Yes,Yes,No,Yes
+C0106,Female,57,48,One Year,Credit Card,69.67,3400.36,Yes,No,Yes,No
+C0107,Female,18,39,One Year,Debit Card,66.07,3428.72,Yes,No,No,No
+C0108,Female,28,33,Month-to-Month,Bank Transfer,80.37,5926.9,Yes,Yes,No,No
+C0109,Female,45,23,Month-to-Month,Bank Transfer,43.97,1986.34,Yes,No,Yes,Yes
+C0110,Male,42,10,Month-to-Month,Credit Card,46.37,972.75,Yes,No,No,Yes
+C0111,Female,40,69,Month-to-Month,Bank Transfer,107.56,2901.52,Yes,No,Yes,Yes
+C0112,Male,48,34,Month-to-Month,Bank Transfer,115.15,2369.19,Yes,No,No,No
+C0113,Female,47,52,Month-to-Month,Credit Card,63.6,2440.83,Yes,No,Yes,No
+C0114,Female,59,10,Two Year,Debit Card,54.37,1945.5,No,No,No,Yes
+C0115,Male,52,19,One Year,Debit Card,87.96,432.54,Yes,No,No,No
+C0116,Female,24,58,Month-to-Month,Debit Card,66.79,241.2,Yes,No,No,No
+C0117,Male,33,1,Month-to-Month,Credit Card,32.28,7903.01,Yes,Yes,No,No
+C0118,Female,43,69,Month-to-Month,Bank Transfer,44.05,3479.41,Yes,No,Yes,No
+C0119,Female,19,4,Month-to-Month,Debit Card,94.44,3136.18,Yes,No,Yes,No
+C0120,Male,18,16,Month-to-Month,Debit Card,89.3,5469.21,No,No,Yes,No
+C0121,Female,29,24,Two Year,Credit Card,32.44,1824.21,Yes,No,Yes,Yes
+C0122,Male,22,2,Month-to-Month,Debit Card,49.98,7604.69,Yes,No,No,No
+C0123,Female,54,32,Two Year,Credit Card,50.8,6312.13,Yes,No,Yes,No
+C0124,Male,49,24,Two Year,Bank Transfer,90.47,806.35,Yes,Yes,No,No
+C0125,Male,26,12,Month-to-Month,Credit Card,31.77,3398.89,Yes,No,No,No
+C0126,Female,58,50,One Year,Credit Card,39.37,7045.03,Yes,Yes,No,No
+C0127,Female,52,35,One Year,Credit Card,101.99,7563.38,Yes,Yes,Yes,Yes
+C0128,Male,36,33,Month-to-Month,Credit Card,46.07,3792.47,Yes,Yes,No,No
+C0129,Female,33,33,Month-to-Month,Bank Transfer,88.75,4945.95,Yes,Yes,No,Yes
+C0130,Female,20,61,One Year,Bank Transfer,51.44,1419.57,Yes,No,Yes,Yes
+C0131,Female,37,51,One Year,Debit Card,38.95,7930.23,Yes,Yes,No,No
+C0132,Male,41,43,Two Year,Bank Transfer,51.89,1930.21,Yes,No,No,No
+C0133,Male,50,12,Two Year,Bank Transfer,95.0,7547.58,Yes,Yes,Yes,Yes
+C0134,Male,41,67,One Year,Debit Card,107.01,5232.21,Yes,Yes,No,No
+C0135,Male,28,65,Two Year,Bank Transfer,104.72,4901.12,Yes,Yes,Yes,No
+C0136,Male,25,33,One Year,Credit Card,65.75,4150.24,Yes,Yes,Yes,Yes
+C0137,Male,53,40,One Year,Credit Card,90.13,1922.29,No,No,Yes,No
+C0138,Male,55,43,One Year,Debit Card,48.45,1494.57,Yes,No,Yes,No
+C0139,Male,57,44,Month-to-Month,Debit Card,56.38,1841.84,Yes,No,Yes,No
+C0140,Male,37,29,One Year,Debit Card,110.67,1572.86,Yes,No,Yes,Yes
+C0141,Female,52,13,One Year,Credit Card,31.17,6258.72,Yes,Yes,No,No
+C0142,Male,42,12,Month-to-Month,Bank Transfer,37.7,2865.99,Yes,No,No,No
+C0143,Female,52,46,Two Year,Credit Card,48.71,556.96,Yes,No,No,No
+C0144,Female,42,2,Month-to-Month,Debit Card,32.39,7755.91,No,No,Yes,Yes
+C0145,Female,46,35,One Year,Bank Transfer,46.33,7081.91,Yes,Yes,Yes,No
+C0146,Male,35,8,One Year,Bank Transfer,82.47,7429.24,Yes,Yes,No,Yes
+C0147,Male,63,26,One Year,Credit Card,67.93,7959.77,Yes,Yes,Yes,No
+C0148,Male,35,34,Month-to-Month,Debit Card,110.34,1473.77,No,Yes,Yes,Yes
+C0149,Male,19,7,Two Year,Credit Card,103.57,3230.31,Yes,No,No,No
+C0150,Female,52,68,One Year,Bank Transfer,60.76,6090.08,No,No,Yes,No
+C0151,Male,33,58,Month-to-Month,Credit Card,53.35,5598.56,Yes,No,No,No
+C0152,Male,58,29,Month-to-Month,Credit Card,64.17,1315.78,No,No,No,Yes
+C0153,Male,53,36,One Year,Debit Card,83.13,6545.08,Yes,No,Yes,No
+C0154,Male,50,21,Month-to-Month,Debit Card,54.13,1873.08,No,No,Yes,No
+C0155,Male,21,36,Month-to-Month,Bank Transfer,86.17,1868.16,Yes,No,No,No
+C0156,Female,50,10,One Year,Credit Card,66.85,4342.1,No,Yes,Yes,No
+C0157,Male,31,24,Month-to-Month,Credit Card,79.68,4784.23,Yes,Yes,Yes,No
+C0158,Female,38,64,One Year,Credit Card,69.25,4682.68,Yes,Yes,No,No
+C0159,Male,37,49,Month-to-Month,Bank Transfer,56.5,822.75,Yes,No,Yes,No
+C0160,Female,25,36,One Year,Bank Transfer,115.36,7031.94,Yes,No,No,No
+C0161,Male,24,24,Month-to-Month,Debit Card,98.72,2198.24,Yes,Yes,No,No
+C0162,Male,20,23,One Year,Debit Card,42.61,1123.17,Yes,No,Yes,No
+C0163,Female,34,62,Month-to-Month,Debit Card,108.16,7121.11,Yes,Yes,Yes,No
+C0164,Female,50,37,One Year,Credit Card,73.87,7649.65,Yes,No,Yes,Yes
+C0165,Female,29,12,Month-to-Month,Credit Card,110.51,6910.81,No,Yes,Yes,No
+C0166,Male,39,55,Two Year,Debit Card,101.99,6495.18,Yes,Yes,Yes,No
+C0167,Female,39,13,One Year,Credit Card,68.27,5276.41,No,No,No,No
+C0168,Male,63,23,Two Year,Debit Card,32.02,4451.77,Yes,Yes,Yes,Yes
+C0169,Male,47,30,One Year,Bank Transfer,54.18,787.2,Yes,Yes,No,No
+C0170,Female,55,17,Month-to-Month,Debit Card,78.75,3326.78,Yes,Yes,No,No
+C0171,Female,55,62,Two Year,Bank Transfer,87.01,3044.24,Yes,No,No,No
+C0172,Male,62,13,Month-to-Month,Credit Card,53.21,2152.05,Yes,No,No,Yes
+C0173,Male,25,59,Month-to-Month,Debit Card,42.54,5815.02,Yes,Yes,Yes,No
+C0174,Female,44,19,Month-to-Month,Credit Card,105.14,4017.42,Yes,No,No,No
+C0175,Female,44,49,One Year,Bank Transfer,118.6,740.27,Yes,No,No,No
+C0176,Female,51,12,One Year,Bank Transfer,77.31,1839.45,No,Yes,Yes,No
+C0177,Male,38,61,Month-to-Month,Bank Transfer,45.45,5497.74,No,No,Yes,No
+C0178,Male,47,19,Two Year,Credit Card,54.51,701.43,Yes,Yes,No,No
+C0179,Male,50,9,Month-to-Month,Credit Card,31.66,6824.53,Yes,Yes,Yes,Yes
+C0180,Male,45,71,Month-to-Month,Credit Card,112.29,4011.66,Yes,No,Yes,No
+C0181,Male,64,28,Month-to-Month,Credit Card,40.6,3896.63,Yes,Yes,Yes,No
+C0182,Male,50,52,Month-to-Month,Bank Transfer,81.89,4780.02,Yes,No,Yes,Yes
+C0183,Female,22,16,Month-to-Month,Bank Transfer,54.66,6614.98,Yes,No,No,Yes
+C0184,Male,36,69,One Year,Debit Card,79.88,2847.69,Yes,Yes,No,No
+C0185,Male,21,12,One Year,Debit Card,88.63,5456.33,No,No,No,No
+C0186,Male,52,25,Month-to-Month,Credit Card,104.68,4569.28,Yes,Yes,Yes,No
+C0187,Female,34,52,Month-to-Month,Bank Transfer,48.58,2209.52,Yes,No,Yes,No
+C0188,Male,61,53,Month-to-Month,Bank Transfer,30.99,7041.18,Yes,No,Yes,No
+C0189,Male,45,23,Two Year,Bank Transfer,42.32,6399.67,Yes,No,Yes,No
+C0190,Female,47,16,Month-to-Month,Debit Card,111.0,5301.77,Yes,No,Yes,Yes
+C0191,Male,46,57,One Year,Debit Card,108.65,6819.6,No,Yes,No,No
+C0192,Male,63,39,Two Year,Bank Transfer,83.77,6951.62,Yes,No,Yes,No
+C0193,Male,23,53,One Year,Bank Transfer,84.05,5696.07,No,No,No,Yes
+C0194,Male,52,42,Two Year,Bank Transfer,89.85,6712.41,Yes,No,Yes,Yes
+C0195,Male,58,58,Month-to-Month,Debit Card,45.78,5610.02,Yes,No,Yes,No
+C0196,Female,54,39,One Year,Bank Transfer,112.3,5473.11,Yes,No,Yes,No
+C0197,Female,41,14,One Year,Bank Transfer,67.69,4987.03,Yes,Yes,No,No
+C0198,Female,46,5,One Year,Credit Card,64.48,6046.46,No,Yes,No,No
+C0199,Male,63,35,Month-to-Month,Credit Card,76.7,1352.98,No,No,No,No
+C0200,Male,48,18,Month-to-Month,Debit Card,34.23,7058.88,Yes,No,Yes,No
